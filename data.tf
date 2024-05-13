@@ -15,4 +15,4 @@ data "aws_security_groups" "test" {
   }
 }
 
-#added this comment to test terraform cloud trigger 
+#updated this comment to test terraform cloud trigger 
