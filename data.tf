@@ -14,3 +14,5 @@ data "aws_security_groups" "test" {
     Name = "pub-sg-1"
   }
 }
+
+#added this comment to test terraform cloud trigger 
